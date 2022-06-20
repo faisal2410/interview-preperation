@@ -1,0 +1,23 @@
+{
+  "name": "interview-prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "server": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisal2410/interview-preperation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisal2410/interview-preperation/issues"
+  },
+  "homepage": "https://github.com/faisal2410/interview-preperation#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
